@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo. Atualmente, cursando Bacharelado em Sistemas de Informação.
+
 <!--
 **douglasgusson/douglasgusson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
