@@ -1,8 +1,8 @@
-### Olá, pessoas 👋
+## Olá, pessoas 👋
 
-Me chamo Douglas, sou técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo. Atualmente, cursando Bacharelado em Sistemas de Informação.
+Me chamo Douglas, sou técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo. Atualmente, estou cursando Bacharelado em Sistemas de Informação.
 
----
+🔭 Atualmente trabalho na [Arco Websites & e-Commerce](https://arcoinformatica.com.br), aonde atuo como Web Developer.
 
 <!--
 **douglasgusson/douglasgusson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
