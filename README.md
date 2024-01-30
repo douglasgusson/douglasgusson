@@ -1,5 +1,7 @@
 ## Olá, pessoas 👋
 
+> Eu sou apenas um rapaz latino-americano, sem dinheiro no banco sem parentes importantes e vindo do interior - Belchior
+
 Me chamo Douglas, sou Bacharel em Sistemas de Informação e Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo campus Cachoeiro de Itapemirim.
 
 - 🔭 Atualmente, trabalho na [Arco Websites & e-Commerce](https://arcoinformatica.com.br), aonde atuo como Web Developer.
