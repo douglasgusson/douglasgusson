@@ -4,8 +4,6 @@
 
 Me chamo Douglas, sou Bacharel em Sistemas de Informação e Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo campus Cachoeiro de Itapemirim.
 
-- 🔭 Atualmente, trabalho na [Arco Websites & e-Commerce](https://arcoinformatica.com.br), aonde atuo como Web Developer.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/douglasgusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="douglasgusson" height="30" width="40" /></a>
